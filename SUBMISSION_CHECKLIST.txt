@@ -1,0 +1,16 @@
+MEDISCAN FINAL SUBMISSION CHECKLIST
+
+[ ] Run training notebook
+[ ] Download mediscan_resnet50.pt
+[ ] Confirm metrics.json
+[ ] Confirm confusion_matrix.png
+[ ] Confirm roc_curve.png
+[ ] Confirm accuracy_curve.png
+[ ] Confirm loss_curve.png
+[ ] Confirm 10+ Grad-CAM images
+[ ] Put model file beside app.py
+[ ] Run Streamlit app
+[ ] Test upload + prediction
+[ ] Add screenshots/results to report and PPT
+[ ] Add live URL if deployment is required
+[ ] Zip final project folder
